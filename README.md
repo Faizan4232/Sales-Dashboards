@@ -1,119 +1,45 @@
-# 📊 Sales Dashboard | Excel Data Analytics Project
+# 🏥 Hospital Emergency Room Dashboard | Excel Project
 
-A professional and interactive **Sales Dashboard** built in Microsoft Excel to analyze business performance using dynamic charts, KPIs, slicers, and pivot tables. This project helps track revenue trends, top-performing products, regional sales, and customer behavior for better decision-making.
+An interactive **Hospital Emergency Room Dashboard** built in Microsoft Excel to monitor patient flow, waiting time, satisfaction score, referrals, and admission trends.
 
-# 🚀 Project Overview
+## 📊 Key Metrics
 
-The goal of this project is to transform raw sales data into meaningful insights through an easy-to-use dashboard. It enables users to monitor performance, identify growth opportunities, and make data-driven business decisions.
+* Total Patients: 466
+* Average Wait Time: 35.06 Minutes
+* Satisfaction Score: 4.91 / 5
+* Admission Rate: 51%
 
-This dashboard is ideal for:
+## 📌 Dashboard Features
 
-* Business Owners
-* Sales Teams
-* Managers
-* Data Analytics Beginners
-* Internship Portfolio Projects
+* Monthly & Year Filters
+* Gender Distribution
+* On-Time vs Delayed Attendance
+* Department Referrals
+* Age Group Analysis
+* Admission Summary
+* KPI Cards
 
----
-
-# 🛠 Tools & Features Used
+## 🛠 Tools Used
 
 * Microsoft Excel
 * Pivot Tables
 * Pivot Charts
 * Slicers
 * Conditional Formatting
-* KPI Cards
-* Interactive Filters
-* Data Cleaning & Formatting
-* Dashboard Design Principles
+* Dashboard Design
 
----
+## 💡 Business Value
 
-# 📌 Key Insights Included
+This dashboard helps hospital management:
 
-* Total Sales Performance
-* Monthly Revenue Trends
-* Region-wise Sales Analysis
-* Category/Product Performance
-* Top Customers / Orders
-* Profitability Overview
-* Sales Comparison by Segment
-* Dynamic Filtering with Slicers
+* Improve patient experience
+* Reduce waiting time
+* Monitor department load
+* Track operational efficiency
+* Support decision-making
 
----
-
-# 📷 Dashboard Preview
-
-*Add screenshots of your dashboard here after uploading to GitHub.*
-
-Example:
-
-* Dashboard Home View
-* Sales Trend Analysis
-* Regional Performance
-* Product Breakdown
-
----
-
-# 📁 Project Structure
-
-```text
-Sales-Dashboard-Excel/
-│── Project excel 8595.xlsx
-│── README.md
-│── screenshots/
-│   ├── dashboard.png
-│   ├── trends.png
-│   └── summary.png
-```
-
----
-
-# ▶️ How to Use
-
-1. Download the Excel file
-2. Open in Microsoft Excel
-3. Enable editing if prompted
-4. Use slicers and filters to explore data
-5. Review charts and KPI metrics
-
----
-
-# 💡 Business Value
-
-This dashboard helps organizations:
-
-* Track performance in real time
-* Identify strong and weak sales areas
-* Improve planning and forecasting
-* Optimize product strategy
-* Support faster management decisions
-
----
-
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 **Faizan Ahmad**
 Galgotias University
-GitHub: `faizan4232`
-
----
-
-# 🌟 Why This Project Matters
-
-This project demonstrates practical skills in:
-
-* Data Analysis
-* Dashboard Creation
-* Business Intelligence
-* Data Visualization
-* Excel Reporting
-
----
-
-# 📬 Connect With Me
-
-If you liked this project, feel free to connect and explore more of my work.
-
-⭐ Star this repository if you found it useful!
+GitHub: faizan4232
